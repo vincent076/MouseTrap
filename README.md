@@ -1,5 +1,7 @@
 # MouseTrap
 
+For an more in depth documentation on the project please visit: www.vincenthoenderop.com/mousetrap
+
 To install Mousetrap(chrome extension only) follow the steps:
 
 1. Clone this repo so you have a copy in a folder locally
@@ -18,8 +20,6 @@ The more 🧀 you see, the higher the chance it is a clickbait. The rating is be
 
 MouseTrap only activates when you are on Facebook, it does not scan or store any other website you visit.
 MouseTrap source code
-
-For an more in depth documentation on the project please visit: www.vincenthoenderop.com/mousetrap
 
 used API:
 Fakenewsdetector api

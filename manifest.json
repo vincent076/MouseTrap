@@ -28,7 +28,7 @@
   },
 
   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
-  "homepage_url": "http://www.vincenthoenderop.com/extension",
+  "homepage_url": "http://www.vincenthoenderop.com/mousetrap",
   "content_scripts": [{
       "matches": ["http://www.facebook.com/*", "https://www.facebook.com/*"],
       "js": ["facebook.js"],

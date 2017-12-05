@@ -49,100 +49,82 @@ const facebook_clickbait = function (node) {
 		  console.log("Clickbait number:" + clickbait);
           var clickbait_banner = el.appendChild(document.createElement("div"));    
           if (clickbait < 0.52) {
-            clickbait_banner.style.fontFamily = "Arial"
-            clickbait_banner.style.fontStyle = "bold"
             clickbait_banner.style.fontSize = "20px"
             clickbait_banner.style.width = "80%";
             clickbait_banner.style.textDecoration = "none";
             clickbait_banner.style.textAlign = "left";
-            clickbait_banner.textContent = "🖱 🧀 🧀";
+            clickbait_banner.textContent = " 🧀 🧀";
           }            
             
            else if (clickbait < 0.54) {
-            clickbait_banner.style.fontFamily = "Arial"
-            clickbait_banner.style.fontStyle = "bold"
             clickbait_banner.style.fontSize = "20px"
             clickbait_banner.style.width = "80%";
             clickbait_banner.style.textDecoration = "none";
             clickbait_banner.style.textAlign = "left";
-            clickbait_banner.textContent = "🖱 🧀 🧀 🧀";
+            clickbait_banner.textContent = " 🧀 🧀 🧀";
             
           }
 
           else if (clickbait < 0.56) {
-            clickbait_banner.style.fontFamily = "Arial"
-            clickbait_banner.style.fontStyle = "bold"
             clickbait_banner.style.fontSize = "20px"
             clickbait_banner.style.width = "80%";
             clickbait_banner.style.textDecoration = "none";
             clickbait_banner.style.textAlign = "left";
-            clickbait_banner.textContent = "🖱 🧀 🧀 🧀 🧀";
+            clickbait_banner.textContent = " 🧀 🧀 🧀 🧀";
             
           }
 
           else if (clickbait < 0.58) {
-            clickbait_banner.style.fontFamily = "Arial"
-            clickbait_banner.style.fontStyle = "bold"
             clickbait_banner.style.fontSize = "20px"
             clickbait_banner.style.width = "80%";
             clickbait_banner.style.textDecoration = "none";
             clickbait_banner.style.textAlign = "left";
-            clickbait_banner.textContent = "🖱 🧀 🧀 🧀 🧀 🧀";
+            clickbait_banner.textContent = " 🧀 🧀 🧀 🧀 🧀";
             
           }
 
           else if (clickbait < 0.60) {
-            clickbait_banner.style.fontFamily = "Arial"
-            clickbait_banner.style.fontStyle = "bold"
             clickbait_banner.style.fontSize = "20px"
             clickbait_banner.style.width = "80%";
             clickbait_banner.style.textDecoration = "none";
             clickbait_banner.style.textAlign = "left";
-            clickbait_banner.textContent = "🖱 🧀 🧀 🧀 🧀 🧀 🧀";
+            clickbait_banner.textContent = " 🧀 🧀 🧀 🧀 🧀 🧀";
             
           }
 
           else if (clickbait < 0.62) {
-            clickbait_banner.style.fontFamily = "Arial"
-            clickbait_banner.style.fontStyle = "bold"
             clickbait_banner.style.fontSize = "20px"
             clickbait_banner.style.width = "80%";
             clickbait_banner.style.textDecoration = "none";
             clickbait_banner.style.textAlign = "left";
-            clickbait_banner.textContent = "🖱 🧀 🧀 🧀 🧀 🧀 🧀 🧀";
+            clickbait_banner.textContent = " 🧀 🧀 🧀 🧀 🧀 🧀 🧀";
             
           }
 
           else if (clickbait < 0.64) {
-            clickbait_banner.style.fontFamily = "Arial"
-            clickbait_banner.style.fontStyle = "bold"
             clickbait_banner.style.fontSize = "20px"
             clickbait_banner.style.width = "80%";
             clickbait_banner.style.textDecoration = "none";
             clickbait_banner.style.textAlign = "left";
-            clickbait_banner.textContent = "🖱 🧀 🧀 🧀 🧀 🧀 🧀 🧀 🧀";
+            clickbait_banner.textContent = " 🧀 🧀 🧀 🧀 🧀 🧀 🧀 🧀";
             
           }
 
           else if (clickbait < 0.68) {
-            clickbait_banner.style.fontFamily = "Arial"
-            clickbait_banner.style.fontStyle = "bold"
             clickbait_banner.style.fontSize = "20px"
             clickbait_banner.style.width = "80%";
             clickbait_banner.style.textDecoration = "none";
             clickbait_banner.style.textAlign = "left";
-            clickbait_banner.textContent = "🖱 🧀 🧀 🧀 🧀 🧀 🧀 🧀 🧀 🧀";
+            clickbait_banner.textContent = " 🧀 🧀 🧀 🧀 🧀 🧀 🧀 🧀 🧀";
             
           }
 
           else if (clickbait < 0.70) {
-            clickbait_banner.style.fontFamily = "Arial"
-            clickbait_banner.style.fontStyle = "bold"
             clickbait_banner.style.fontSize = "20px"
             clickbait_banner.style.width = "80%";
             clickbait_banner.style.textDecoration = "none";
             clickbait_banner.style.textAlign = "left";
-            clickbait_banner.textContent = "🖱 🧀 🧀 🧀 🧀 🧀 🧀 🧀 🧀 🧀 🧀";
+            clickbait_banner.textContent = " 🧀 🧀 🧀 🧀 🧀 🧀 🧀 🧀 🧀 🧀";
             
           }
 
@@ -162,7 +144,7 @@ const facebook_clickbait = function (node) {
 //   const images = [...node.getElementsByClassName('_42nr')];
 //   var clickbait_voter = el.appendChild(document.createElement("div"));    
 //   clickbait_voter.style.innerHTML = "<button>vote</button>";
-// }
+//  }
 
 
 
